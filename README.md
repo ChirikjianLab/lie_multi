@@ -1,4 +1,9 @@
 # A Matlab Implementation of "Lie-theoretic multi-robot localization"
-This is a repo for the paper "X. Li and G. S. Chirikjian, “Lie-theoretic multi-robot localization”, in Riemannian Computing in Computer Vision, P. K. Turaga and A. Srivastava, Eds. Cham: Springer International
-Publishing, 2016, pp. 165–186, isbn: 978-3-319-22957-7. doi: 10.1007/978- 3- 319- 22957- 7_8. [Online]. Available: https: //doi.org/10.1007/978-3-319-22957-7_8."
-It contains a matlab code that reproduces the numerical experiment in the paper and a brief explanation file.
+This repo provides the codes for the book chapter:
+> [**Lie-theoretic multi-robot localization**]([http://roboticsproceedings.org/rss08/p34.pdf](https://rpk.lcsr.jhu.edu/wp-content/uploads/2017/01/Lie-Theoretic-Multi-Robot-Localization_book-chapter.pdf))
+> X. Li and G. S. Chirikjian
+
+It contains a matlab code `Multi.m` that implements the numerical experiment in the paper using three robots and a brief explanation file `brief_explanation.pdf`.
+Run `Multi.m` to plot the experiment result.
+
+Author: Maria Khodaverdian
